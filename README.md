@@ -1,5 +1,8 @@
 # APL-Image-Utilities
-Utility functions to get images in and out of  (GNU) APL
+Utility functions to get images in and out of  (GNU) APL.
+
+The goal of this library is meant to assist in getting images in and out of APL, and not for processing images within APL.For example, computer vision algorithms and resizing an image are not in scope.
+
 
 Currently only uncompressed  BMP3 (Microsoft Windows bitmap image (V3)) format is supported. If you have ImageMagick installed on your machine, The following line will turn any supported image file (here, input.png) into an uncompressed BMP3 file:
 
