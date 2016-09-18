@@ -20,4 +20,4 @@ There are only two top level functions that an application developer would use r
 
 ```IMG∆BMP∆bitmap_image_to_file``` takes a path as a left argument, and expects a three-dimension array as the right argument. Any matrix that is of size 3×X×Y will work, for example: 
 
-```'image.bmp ' IMG∆BMP∆bitmap_image_to_file 3 20 30 ⍴ ⍳100```).
+```'image.bmp ' IMG∆BMP∆bitmap_image_to_file 3 20 30 ⍴ ⍳100```
